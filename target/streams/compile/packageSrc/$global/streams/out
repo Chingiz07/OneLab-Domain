@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/chingiz/Documents/OneLab/onelab-domain/target/scala-2.12/onelab-domain_2.12-1.0-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kz/one/lab/serializer/CoreSerializer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chingiz/Documents/OneLab/onelab-domain/src/main/scala/kz/one/lab/serializer/CoreSerializer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kz/one/lab/domain/Pong.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chingiz/Documents/OneLab/onelab-domain/src/main/scala/kz/one/lab/domain/Pong.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kz/one/lab/domain/Ping.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chingiz/Documents/OneLab/onelab-domain/src/main/scala/kz/one/lab/domain/Ping.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
